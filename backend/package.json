@@ -1,12 +1,22 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Capacitación de aprendisaje Stack MERN.",
   "main": "index.js",
   "scripts": {
+    "devp": "nodemon src/index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Christian Daniel Campaña Díaz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
