@@ -11,16 +11,17 @@ app.use(express.json()); // se usa para que el servidor entienda formatos json
 app.use(cors());
 
 // routes
+// const usersRoutes = require('./routes/users');
+// const notesRoutes = require('./routes/notes');
+
 app.get('/', (req, res) => {
     res.send('holaaaaa');
 });
 
-app.get('/api/users', (req, res) => {
-    res.send('User Routes');
-});
-
-app.get('/api/notes', (req, res) => {
-    res.send('Notes Routes');
-});
+// app.use(usersRoutes);
+// app.use(notesRoutes);
+app.use('/',require('./routes/home'));
+app.use('/api/users',require('./routes/users'));
+app.use('/api/notes',require('./routes/notes'));
 
 module.exports = app;

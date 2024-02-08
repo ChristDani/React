@@ -23,5 +23,6 @@
     <li>Se creó una conexión con MongoDB.</li>
     <li>Se crearon variables de entorno.</li>
     <li>Se inició la configuración del servidor.</li>
+    <li>Se crearon rutas para nuestro servidor.</li>
     <li>...</li>
 </ul>
