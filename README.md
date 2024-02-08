@@ -25,6 +25,7 @@
     <li>Se inició la configuración del servidor.</li>
     <li>Se crearon rutas para nuestro servidor.</li>
     <li>Se modificaron las rutas mediante los controladores</li>
-    <li>Se creo el servicio Rest API</li>
+    <li>Se creó el servicio Rest API</li>
+    <li>Se creó el frontend y las páginas de nuestro programa</li>
     <li>...</li>
 </ul>
