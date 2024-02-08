@@ -20,7 +20,8 @@
     <li>Se creó la carpeta de backend.</li>
     <li>Se agregaron los módulos principales y secundarios al proyecto.</li>
     <li>Se inició el servidor.</li>
-    <li>Se creó una conexión con MongoDB</li>
-    <li>Se crearon variables de entorno</li>
+    <li>Se creó una conexión con MongoDB.</li>
+    <li>Se crearon variables de entorno.</li>
+    <li>Se inició la configuración del servidor.</li>
     <li>...</li>
 </ul>
