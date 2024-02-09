@@ -24,8 +24,9 @@
     <li>Se crearon variables de entorno.</li>
     <li>Se inició la configuración del servidor.</li>
     <li>Se crearon rutas para nuestro servidor.</li>
-    <li>Se modificaron las rutas mediante los controladores</li>
-    <li>Se creó el servicio Rest API</li>
-    <li>Se creó el frontend y las páginas de nuestro programa</li>
+    <li>Se modificaron las rutas mediante los controladores.</li>
+    <li>Se creó el servicio Rest API.</li>
+    <li>Se creó el frontend y las páginas de nuestro programa.</li>
+    <li>Se modificó la navegación de la página y estilizó la vista de la misma.</li>
     <li>...</li>
 </ul>
