@@ -13,9 +13,9 @@
 <h5>Módulos Secundarios</h5>
 <ul>
     <li>Nodemon</li>
+    <li>React-DatePicker</li>
     <li>...</li>
 </ul>
-<br>
 <h5>Actividades Realizadas</h5>
 <ul>
     <li>Se creó la carpeta de backend.</li>
@@ -32,5 +32,7 @@
     <li>Se instaló axios para el manejo de datos en el frontend.</li>
     <li>Se preparó el formulario de creación de usuarios.</li>
     <li>Se crearon las funciones para listar, crear y eliminar usuarios.</li>
+    <li>Instalamos React-DatePicker.</li>
+    <li>Se preparó el formulario de notas para la creación de las mismas.</li>
     <li>...</li>
 </ul>
