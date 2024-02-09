@@ -7,6 +7,7 @@
     <li>Mongoose</li>
     <li>Cors</li>
     <li>DotEnv</li>
+    <li>Axios</li>
     <li>...</li>
 </ul>
 <h5>Módulos Secundarios</h5>
@@ -28,5 +29,7 @@
     <li>Se creó el servicio Rest API.</li>
     <li>Se creó el frontend y las páginas de nuestro programa.</li>
     <li>Se modificó la navegación de la página y estilizó la vista de la misma.</li>
+    <li>Se instaló axios para el manejo de datos en el frontend.</li>
+    <li>Se preparó el formulario de creación de usuarios.</li>
     <li>...</li>
 </ul>
