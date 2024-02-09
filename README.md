@@ -31,5 +31,6 @@
     <li>Se modificó la navegación de la página y estilizó la vista de la misma.</li>
     <li>Se instaló axios para el manejo de datos en el frontend.</li>
     <li>Se preparó el formulario de creación de usuarios.</li>
+    <li>Se crearon las funciones para listar, crear y eliminar usuarios.</li>
     <li>...</li>
 </ul>
