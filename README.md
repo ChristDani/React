@@ -36,5 +36,6 @@
     <li>Instalamos React-DatePicker.</li>
     <li>Se preparó el formulario de notas para la creación de las mismas.</li>
     <li>Se ingresan datos de las notas y se configuró el listado y eliminación de las mismas.</li>
+    <li>Se realizó la modificación de datos de una nota.</li>
     <li>...</li>
 </ul>
