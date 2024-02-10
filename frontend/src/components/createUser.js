@@ -8,7 +8,7 @@ export default class createUser extends Component {
     username: ''
   }
 
-  async componentDidMount() {
+  componentDidMount() {
     // console.log(res)
     this.getUsers();
     // console.log(this.state.users);

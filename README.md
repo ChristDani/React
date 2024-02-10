@@ -14,6 +14,7 @@
 <ul>
     <li>Nodemon</li>
     <li>React-DatePicker</li>
+    <li>timeAgo.js</li>
     <li>...</li>
 </ul>
 <h5>Actividades Realizadas</h5>
@@ -34,5 +35,6 @@
     <li>Se crearon las funciones para listar, crear y eliminar usuarios.</li>
     <li>Instalamos React-DatePicker.</li>
     <li>Se preparó el formulario de notas para la creación de las mismas.</li>
+    <li>Se ingresan datos de las notas y se configuró el listado y eliminación de las mismas.</li>
     <li>...</li>
 </ul>
