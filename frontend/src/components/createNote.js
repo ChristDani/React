@@ -49,7 +49,7 @@ export default class createNote extends Component {
     const newNote = {
       title: this.state.title,
       content: this.state.content,
-      date: new Date(Date.UTC(this.state.date)),
+      date: new Date(this.state.date),
       author: this.state.userSelected
     };
     if (this.state.editing) {

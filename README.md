@@ -37,5 +37,6 @@
     <li>Se preparó el formulario de notas para la creación de las mismas.</li>
     <li>Se ingresan datos de las notas y se configuró el listado y eliminación de las mismas.</li>
     <li>Se realizó la modificación de datos de una nota.</li>
+    <li>Se solucionó el bug de edición donde no editaba la fecha de la nota.</li>
     <li>...</li>
 </ul>
